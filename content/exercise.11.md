@@ -5,7 +5,7 @@ chapter: "2. Cool Stuff"
 training: true
 ---
 
-What is a slot in Vue 3?
+What is a slot in Vue.js 3?
 
 #
 
