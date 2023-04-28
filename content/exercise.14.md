@@ -1,7 +1,7 @@
 ---
 difficulty: 2
 tags: composition api, reactivity
-chapter: "3. Advanced Concepts"
+chapter: "3. Advanced Concepts of Vue"
 training: true
 ---
 
