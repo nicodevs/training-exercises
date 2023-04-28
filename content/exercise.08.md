@@ -5,7 +5,7 @@ chapter: "1. Let's Go"
 training: true
 ---
 
-Which of the following is not a lifecycle hook in Vue 3?
+Which of the following is not a lifecycle?
 
 #
 
