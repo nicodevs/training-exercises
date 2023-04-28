@@ -7,6 +7,10 @@ training: true
 
 What is a computed property in Vue 3?
 
+```
+some code here
+```
+
 # Correct
 
 A property that is calculated based on the component's data
