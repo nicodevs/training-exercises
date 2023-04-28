@@ -1,7 +1,7 @@
 ---
 difficulty: 2
 tags: slots
-chapter: "2. Cool Stuff"
+chapter: "2. Hot Stuff"
 training: true
 ---
 
