@@ -1,7 +1,7 @@
 ---
 difficulty: 1
 tags: v-model
-chapter: "2. Cool Stuff"
+chapter: "2. Hot Stuff"
 training: true
 ---
 
